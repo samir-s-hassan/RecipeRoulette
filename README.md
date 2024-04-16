@@ -106,11 +106,11 @@ N/A
 - [OPTIONAL: List endpoints if using existing API such as Yelp]
 
 ## Sprints
-- [X] Week 8/Sprint 1: Create and setup an Xcode project for the app. Add a logo to the app. App should build.
+- [X] Week 8/Sprint 1: Create and setup an Xcode project for the app. Add a logo to the app. App should build.  
       - Challenges faced: The wireframe was difficult to draw as I'm not the most artistic and am not really good at making UI/UX. Also, did not write any code because the app
         brainstorming, choosing, and designing took a while. This was a no-code week.
-- [ ] Week 9/Sprint 2:
+- [ ] Week 9/Sprint 2:  
       - Challenges faced: 
-- [ ] Week 10/Sprint 3:
+- [ ] Week 10/Sprint 3:  
       - Challenges faced: 
 
