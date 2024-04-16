@@ -52,7 +52,7 @@ Recipe Roulette is a fun cooking app that helps users discover new recipes based
 - [ ] Login Screen
 * User can login
 - [ ] Registration Screen
-* User can login
+* User can create a new account
 - [ ] Recipe Generation Screen
 * User can see a randomly generated recipe
 * User can upload recipe ideas
