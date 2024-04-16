@@ -7,6 +7,7 @@
 3. [Wireframes](#Wireframes)
 4. [Schema](#Schema)
 5. [Sprints](#Sprints)
+6. [Video](#Videos)
 
 ## Overview
 
@@ -112,5 +113,8 @@ N/A
 - [ ] Week 9/Sprint 2:  
       - Challenges faced: 
 - [ ] Week 10/Sprint 3:  
-      - Challenges faced: 
+      - Challenges faced:
+
+## Videos
+- Week 8/Sprint 1: https://www.loom.com/share/ec50e3cc8b37462ea994a64a0593cd86?sid=c87fbecf-b1a3-44ef-8e54-89b26dea871c
 
