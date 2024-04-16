@@ -6,6 +6,7 @@
 2. [Product Spec](#Product-Spec)
 3. [Wireframes](#Wireframes)
 4. [Schema](#Schema)
+5. [Sprints](#Sprints)
 
 ## Overview
 
@@ -84,7 +85,11 @@ Recipe Roulette is a fun cooking app that helps users discover new recipes based
 
 ### [BONUS] Digital Wireframes & Mockups
 
+N/A
+
 ### [BONUS] Interactive Prototype
+
+N/A
 
 ## Schema 
 
@@ -99,3 +104,13 @@ Recipe Roulette is a fun cooking app that helps users discover new recipes based
 - [Add list of network requests by screen ]
 - [Create basic snippets for each Parse network request]
 - [OPTIONAL: List endpoints if using existing API such as Yelp]
+
+## Sprints
+- [X] Week 8/Sprint 1: Create and setup an Xcode project for the app. Add a logo to the app. App should build.
+      - Challenges faced: The wireframe was difficult to draw as I'm not the most artistic and am not really good at making UI/UX. Also, did not write any code because the app
+        brainstorming, choosing, and designing took a while. This was a no-code week.
+- [ ] Week 9/Sprint 2:
+      - Challenges faced: 
+- [ ] Week 10/Sprint 3:
+      - Challenges faced: 
+
