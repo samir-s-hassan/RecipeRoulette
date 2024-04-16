@@ -80,8 +80,7 @@ Recipe Roulette is a fun cooking app that helps users discover new recipes based
 
 ## Wireframes
 
-[Add picture of your hand sketched wireframes in this section]
-<img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
+![](https://drive.google.com/file/d/1pSrx3ue9PjjKRIr_Ov3EwHLQMxuWd7V3/view?usp=sharing)
 
 ### [BONUS] Digital Wireframes & Mockups
 
