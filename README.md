@@ -110,8 +110,8 @@ N/A
 - [X] Week 8/Sprint 1: Create and setup an Xcode project for the app. Add a logo to the app. App should build.  
       - Challenges faced: The wireframe was difficult to draw as I'm not the most artistic and am not really good at making UI/UX. Also, did not write any code because the app
         brainstorming, choosing, and designing took a while. This was a no-code week.
-- [ ] Week 9/Sprint 2: Created a login page with its UI.
-      - Challenges faced: 
+- [X] Week 9/Sprint 2: Created a login page with its UI.  
+      - Challenges faced: N/A
 - [ ] Week 10/Sprint 3:  
       - Challenges faced:
 
