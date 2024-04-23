@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8F05052B2BD77859003A30F4 /* RecipeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F05052A2BD77859003A30F4 /* RecipeViewController.swift */; };
 		8F6170F32BCE4F4F00BB80CB /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F6170F22BCE4F4F00BB80CB /* AppDelegate.swift */; };
 		8F6170F52BCE4F4F00BB80CB /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F6170F42BCE4F4F00BB80CB /* SceneDelegate.swift */; };
 		8F6170F72BCE4F4F00BB80CB /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F6170F62BCE4F4F00BB80CB /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		8F05052A2BD77859003A30F4 /* RecipeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecipeViewController.swift; sourceTree = "<group>"; };
 		8F6170EF2BCE4F4F00BB80CB /* RecipeRoulette.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RecipeRoulette.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8F6170F22BCE4F4F00BB80CB /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		8F6170F42BCE4F4F00BB80CB /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -60,6 +62,7 @@
 				8F6170F42BCE4F4F00BB80CB /* SceneDelegate.swift */,
 				8F6170F62BCE4F4F00BB80CB /* ViewController.swift */,
 				8F6170F82BCE4F4F00BB80CB /* Main.storyboard */,
+				8F05052A2BD77859003A30F4 /* RecipeViewController.swift */,
 				8F6170FB2BCE4F5000BB80CB /* Assets.xcassets */,
 				8F6170FD2BCE4F5000BB80CB /* LaunchScreen.storyboard */,
 				8F6171002BCE4F5000BB80CB /* Info.plist */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8F05052B2BD77859003A30F4 /* RecipeViewController.swift in Sources */,
 				8F6170F72BCE4F4F00BB80CB /* ViewController.swift in Sources */,
 				8F6170F32BCE4F4F00BB80CB /* AppDelegate.swift in Sources */,
 				8F6170F52BCE4F4F00BB80CB /* SceneDelegate.swift in Sources */,
