@@ -94,17 +94,15 @@ N/A
 
 ## Schema 
 
-[This section will be completed in Unit 9]
+N/A
 
 ### Models
 
-[Add table of models]
+N/A
 
 ### Networking
 
-- [Add list of network requests by screen ]
-- [Create basic snippets for each Parse network request]
-- [OPTIONAL: List endpoints if using existing API such as Yelp]
+N/A
 
 ## Sprints
 - [X] Week 8/Sprint 1: Create and setup an Xcode project for the app. Add a logo to the app. App should build.  
@@ -112,10 +110,11 @@ N/A
         brainstorming, choosing, and designing took a while. This was a no-code week.
 - [X] Week 9/Sprint 2: Created a login page with its UI.  
       - Challenges faced: N/A
-- [ ] Week 10/Sprint 3:  
+- [ ] Week 10/Sprint 3:  Created a refrigerator ingreidents screen and created a recipe generator screen.
       - Challenges faced:
 
 ## Videos
 - Week 8/Sprint 1: https://www.loom.com/share/ec50e3cc8b37462ea994a64a0593cd86?sid=c87fbecf-b1a3-44ef-8e54-89b26dea871c
 - Week 9/Sprint 2: https://www.loom.com/share/2cce079dfa7444fe87437cc3fbf520b6?sid=bd1bc7d4-25c5-40d3-90e4-ec3deb47ad6d
+- Week 10/Sprint 3: 
 
