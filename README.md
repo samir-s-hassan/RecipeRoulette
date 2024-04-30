@@ -116,5 +116,5 @@ N/A
 ## Videos
 - Week 8/Sprint 1: https://www.loom.com/share/ec50e3cc8b37462ea994a64a0593cd86?sid=c87fbecf-b1a3-44ef-8e54-89b26dea871c
 - Week 9/Sprint 2: https://www.loom.com/share/2cce079dfa7444fe87437cc3fbf520b6?sid=bd1bc7d4-25c5-40d3-90e4-ec3deb47ad6d
-- Week 10/Sprint 3: 
+- Week 10/Sprint 3: https://www.loom.com/share/ad913632c9e744e197d2511a7c99d19f?sid=f26de2c4-4dab-4ae4-805e-2b0c8f65b7c5
 
